@@ -1,4 +1,4 @@
-> **This is obsolete and has since been implemented by the [Titanium.Platform.Android.physicalSizeCategory](http://docs.appcelerator.com/titanium/latest/#!/api/Titanium.Platform.Android-property-physicalSizeCategory) property in Titanium.**
+> **IMPORTANT: This project is obsolete. This functionality has since been implemented by the [Titanium.Platform.Android.physicalSizeCategory](http://docs.appcelerator.com/titanium/latest/#!/api/Titanium.Platform.Android-property-physicalSizeCategory) property in Titanium.**
 
 ## physicalSizeCategory
 
